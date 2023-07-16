@@ -8,10 +8,10 @@ export default function Home() {
   const items = ['one', 'two', 'three'];
   return (
     <main>
-      {/* <Clock /> */}
-      <Counter />
+      <Clock />
+      {/* <Counter />
       <CustomButton />
-      <ItemList items={items} />
+      <ItemList items={items} /> */}
     </main>
   );
 }
